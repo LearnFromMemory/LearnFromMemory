@@ -52,12 +52,9 @@ const Memory = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=LearnFromMemory&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Memory's GitHub Stats" width="48%">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=LearnFromMemory&theme=tokyonight&hide_border=true" alt="Memory's GitHub Streak" width="48%">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LearnFromMemory&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="48%">
-
 </div>
 
 ---
