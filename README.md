@@ -14,28 +14,16 @@ Welcome to my digital memory palace! I'm **Memory**, a developer who believes th
 
 ```javascript
 const Memory = {
-    pronouns: "they/them", // adjust as needed
-    location: "Somewhere in the cloud ☁️",
-    philosophy: "Learn from every memory, code for the future",
-    currentFocus: "Building meaningful projects",
-    funFact: "I never forget a good algorithm!"
+    name: "Jordan:,
+    pronouns: "he/him",
+    age: 16,
+    job: ["Software Engineer", "Reverse Engineer", "Cyber Security Analyst"]
 };
 ```
 
 ---
 
-## 🚀 What I'm Up To
-
-- 🔭 Currently working on projects that matter
-- 🌱 Always learning something new
-- 👯 Looking to collaborate on innovative ideas
-- 💬 Ask me about turning ideas into reality
-- 📫 How to reach me: *[Add your contact info]*
-- ⚡ Fun fact: Every bug is just a feature waiting to be understood
-
----
-
-## 🛠️ My Tech Memory Bank
+## 🛠️ Skillset
 
 <div align="center">
 
