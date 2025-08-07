@@ -10,8 +10,6 @@
 
 ## 🧠 About Me
 
-Welcome to my digital memory palace! I'm **Memory**, a developer who believes that every line of code tells a story and every project is a lesson worth remembering.
-
 ```javascript
 const Memory = {
     name: "Jordan:,
