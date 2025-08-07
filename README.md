@@ -56,17 +56,6 @@ const Memory = {
 
 ---
 
-## 🎯 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LearnFromMemory&repo=your-awesome-project&theme=tokyonight&hide_border=true)](https://github.com/LearnFromMemory/your-awesome-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LearnFromMemory&repo=another-cool-project&theme=tokyonight&hide_border=true)](https://github.com/LearnFromMemory/another-cool-project)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -76,8 +65,6 @@ const Memory = {
 </div>
 
 ---
-
-## 🤝 Let's Connect
 
 <div align="center">
 
